@@ -1,4 +1,4 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [+Mod](https://telegram.me/Plus_Mod1)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -20,8 +20,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/dany-sj/BDReborn1.git
+cd BDReborn1
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
@@ -30,7 +30,7 @@ chmod +x beyond.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/dany-sj/BDReborn1.git && cd BDReborn1 && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 * * *
@@ -49,7 +49,7 @@ add your ID at line 72 in bot.lua and add your ID at line 2 in tools.lua, Then r
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+More information [Plusmod Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
 
 # Special thanks to
 [@nero_dev](https://telegram.me/nero_dev)
